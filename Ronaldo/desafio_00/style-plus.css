@@ -88,7 +88,6 @@ nav > ul {
   flex-direction: row;
   align-items: center;
   justify-content: space-evenly;
-  /* gap: 300px 50px; */
   margin-block-end: 8vw;
   font-size: 11pt;
 }
@@ -128,7 +127,6 @@ a:link {
 a:hover {
   font-size: 120%;
   transition: 400ms;
-  /* overflow-clip-margin: visible; */
 }
 /* this sets a small white circle around "To" text */
 #white-circle {
@@ -168,7 +166,6 @@ button:active {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  /* gap: 300px 50px; */
   margin-inline-start: 4vw;
   font-size: 11pt;
   gap: 10px 100px;
