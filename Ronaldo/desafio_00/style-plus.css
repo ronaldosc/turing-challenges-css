@@ -27,20 +27,6 @@ header {
   gap: 40px 0;
 }
 
-/* setting this below allow a colorful gradient on back image */
-/* background: radial-gradient(ellipse at top, #cfd0cf, transparent),
-    radial-gradient(ellipse at bottom, #aeb1ad, transparent); */
-/* body::before {
-  background-color: rgba(0, 0, 0, 0.37);
-  content: '';
-  background-repeat: repeat;
-  height: 40vh;
-
-  display: block;
-  height: 100%;
-  position: absolute;
-  width: 100%;
-} */
 .bold {
   font-weight: bold;
 }
