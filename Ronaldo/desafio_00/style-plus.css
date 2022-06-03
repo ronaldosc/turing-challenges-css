@@ -12,7 +12,7 @@ body {
 }
 /* configuration class for background */
 #bg-display {
-  background: url(./Subtle-2-Icon-Web-Design-1.png) 50% 20%,
+  background: url(./small_tree-removedbg.png) 50% 20%,
     linear-gradient(to bottom, #e1ffe1, #f3f3f4);
   background-repeat: no-repeat;
   background-size: 40vw, cover;
